@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/build/src",
+  "command": "/usr/bin/g++   -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include/dbus_header  -g   -o CMakeFiles/KETI-EMM.dir/energy_dbus_server_manager.cpp.o -c /home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/energy_dbus_server_manager.cpp",
+  "file": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/energy_dbus_server_manager.cpp"
+},
+{
+  "directory": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/build/src",
+  "command": "/usr/bin/g++   -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include/dbus_header  -g   -o CMakeFiles/KETI-EMM.dir/energy_dbus_client_manager.cpp.o -c /home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/energy_dbus_client_manager.cpp",
+  "file": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/energy_dbus_client_manager.cpp"
+},
+{
+  "directory": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/build/src",
+  "command": "/usr/bin/g++   -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include/dbus_header  -g   -o CMakeFiles/KETI-EMM.dir/energy_adaptor_wrap.cpp.o -c /home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/energy_adaptor_wrap.cpp",
+  "file": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/energy_adaptor_wrap.cpp"
+},
+{
+  "directory": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/build/src",
+  "command": "/usr/bin/g++   -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include/dbus_header  -g   -o CMakeFiles/KETI-EMM.dir/proxy_wrap.cpp.o -c /home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/proxy_wrap.cpp",
+  "file": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/proxy_wrap.cpp"
+},
+{
+  "directory": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/build/src",
+  "command": "/usr/bin/g++   -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include/dbus_header  -g   -o CMakeFiles/KETI-EMM.dir/energy_rest_client.cpp.o -c /home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/energy_rest_client.cpp",
+  "file": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/energy_rest_client.cpp"
+},
+{
+  "directory": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/build/src",
+  "command": "/usr/bin/g++   -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include/dbus_header  -g   -o CMakeFiles/KETI-EMM.dir/energy_rest_server.cpp.o -c /home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/energy_rest_server.cpp",
+  "file": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/energy_rest_server.cpp"
+},
+{
+  "directory": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/build/src",
+  "command": "/usr/bin/g++   -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include/dbus_header  -g   -o CMakeFiles/KETI-EMM.dir/rest_handler.cpp.o -c /home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/rest_handler.cpp",
+  "file": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/rest_handler.cpp"
+},
+{
+  "directory": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/build/src",
+  "command": "/usr/bin/g++   -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include/dbus_header  -g   -o CMakeFiles/KETI-EMM.dir/util.cpp.o -c /home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/util.cpp",
+  "file": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/util.cpp"
+},
+{
+  "directory": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/build/src",
+  "command": "/usr/bin/g++   -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include -I/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/include/dbus_header  -g   -o CMakeFiles/KETI-EMM.dir/main.cpp.o -c /home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/main.cpp",
+  "file": "/home/keti/KETI_BMC/KETI-APP/IBMC-APP/KETI-EMM/src/main.cpp"
+}
+]
